@@ -3,3 +3,5 @@ learning by GB lesson 6
 
 
 gitHub redaction
+
+new changes at GitHub
